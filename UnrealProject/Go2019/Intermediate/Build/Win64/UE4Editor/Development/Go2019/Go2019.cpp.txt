@@ -1,0 +1,2 @@
+C:\Gamedev\Gameoff2019\Repo\UnrealProject\Go2019\Intermediate\Build\Win64\UE4Editor\Development\Go2019\Definitions.Go2019.h
+c:\gamedev\gameoff2019\repo\unrealproject\go2019\source\go2019\Go2019.h

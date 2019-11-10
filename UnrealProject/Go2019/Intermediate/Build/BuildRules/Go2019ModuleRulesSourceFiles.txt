@@ -1,0 +1,3 @@
+C:\Gamedev\Gameoff2019\Repo\UnrealProject\Go2019\Source\Go2019\Go2019.Build.cs
+C:\Gamedev\Gameoff2019\Repo\UnrealProject\Go2019\Source\Go2019.Target.cs
+C:\Gamedev\Gameoff2019\Repo\UnrealProject\Go2019\Source\Go2019Editor.Target.cs
